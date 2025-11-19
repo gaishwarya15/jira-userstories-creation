@@ -1,0 +1,8 @@
+smolagents
+atlassian-python-api
+python-dotenv
+litellm
+ddgs
+requests
+openai
+pydantic
